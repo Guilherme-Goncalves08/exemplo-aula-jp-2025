@@ -1,1 +1,79 @@
-exemplo para aula
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> html </title>
+</head>
+<body>
+    <!-- CABEÇALHO -->
+    <header>
+        <h1>minha primeira pagina do html</h1>           
+        <a href="./page.html">navegar para page</a> 
+    </header>
+        <main>
+            <section>
+                <h2>seção de listas:</h2>
+                <h3>Lista nao ordenada</h3>
+                <ul>
+                    <li>neymar</li>
+                    <li>messi</li>
+                    <li>cristiano ronaldo</li>
+                </ul>
+                <h3>Lista ordenada</h3>
+                <ol>
+                    <li>flamengo</li>
+                    <li>cruzeiro</li>
+                    <li>palmeiras</li>
+                </ol>
+                </section>
+                <section>
+                    <h2>imagens e videos</h2>
+                    <h3>imagens</h3>
+                    <img src="https://a.pinatafarm.com/640x354/e3ec869aca/kanye.jpg" alt="kanye west" width="1000" height="200">
+                </section>
+                <h3>videos</h3>
+                <figure>
+                   <iframe width="560" height="315" src="https://www.youtube.com/embed/RpbDKt_C76M?si=eTnQqWvfxttYPm1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </figure>
+
+                <section>
+                    <h2>formulario simples</h2>
+                    <form>
+                        <div>
+                            <label for="nome">Nome:</label>
+                            <input type="text"nome="nome" id="nome"require>
+                        </div>
+
+                        <div>
+                            <label for="email">Email</label>
+                            <input type="email"name="email" id="email">
+                        </div>
+
+                        <div>
+                            <label for="mensagem">Mensagem</label>
+                            <textarea name="mensagem" id="mensagem"></textarea>
+                        </div>
+                        <div>
+                            <label for="idade">idade</label>
+                            <input type="number" id="idade" min="18" max="30">
+                        </div>
+                        <div>
+                            <label for="cor">cor</label>
+                            <input type="color" name="cor" id="cor">
+                        </div>
+                        <div>
+                            <label for="anexo">anexo</label>
+                            <input type="file" name="arquivo" id="arquivo">
+                        </div>
+                        <button type="submit">Enviar</button>
+                    </form>
+                </section>
+        </main>
+    <!-- CONTEUDO DA PAGINA EX: HELO WORD -->
+    <!-- RODAPE -->
+     <footer>
+        Minha primeira pagina - &copy; Todos os direitos reservado
+     </footer>
+</body>
+</html>
