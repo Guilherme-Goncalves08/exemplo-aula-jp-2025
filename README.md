@@ -1,3 +1,4 @@
 # exemplo-aula-jp-2025
 
  criando algo coisa para meu primeiro commit no github
+Uma vez Flamengo Sempre FlamengoFlamengo sempre, eu hei de serÉ o meu maior prazer vê-lo brilharSeja na terra, seja no marVencer, vencer, vencer!Uma vez FlamengNa regata, ele memata, me maltrata, me arrebataQue emoção no coração!Consagrado no gramado, sempre amadoO mais cotado no Fla-Flu é o ai, Jesus!Eu teria um desgosto profundoSe faltasse o Flamengo no mundo Ele vibra, ele é fibra muita libra já pesouFlamengo até morrer eu sou!Uma vez FlamengoSempre FlamengoFlamengo sempre, eu hei de serÉ o meu maior prazer vê-lo brilharSeja na terra, seja no marVencer, vencer, vencer!Uma vez FlamengoFlamengo até morrer!Na regata, ele me mata, me maltrata, me arrebataQue emoção no coração!Consagrado no gramado, sempre amadoO mais cotado no Fla-Flu é o ai, Jesus!Eu teria um desgosto profundoSe faltasse o Flamengo no mundoEle vibra, ele é fibra muita libra já pesouFlamengo até morrer eu sou!
